@@ -54,7 +54,7 @@
             </a>
             <div class="dd-divider"></div>
             <a href="/contact/" style="padding:8px 14px">
-              <span class="dd-text"><span class="dd-title" style="color:var(--orange)">&rarr; Get a free quote</span><span class="dd-sub">Tell us about your project</span></span>
+              <span class="dd-text"><span class="dd-title" style="color:var(--orange)">&rarr; Hire me</span><span class="dd-sub">Tell me about your project</span></span>
             </a>
           </div>
         </li>
@@ -110,8 +110,8 @@
 
         <div class="footer-column footer-contact-block">
           <h3>Start here</h3>
-          <p>Have a campaign, funnel, app, or identity system to build? Send the details and we'll map the cleanest next step.</p>
-          <a href="/contact/" class="footer-contact-link">Get a quote -&gt;</a>
+          <p>Have a campaign, funnel, app, or identity system to build? Send the details and I'll map the cleanest next step.</p>
+          <a href="/contact/" class="footer-contact-link">Hire me -&gt;</a>
         </div>
       </div>
 

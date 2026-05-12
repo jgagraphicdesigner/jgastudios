@@ -23,7 +23,7 @@
   /* Nav */
   document.body.insertAdjacentHTML('afterbegin',`
   <nav id="site-nav">
-    <a href="/" class="nav-logo">JC <span>Aquino</span></a>
+    <a href="/" class="nav-logo"><img src="/JGA_logo.svg" alt="JGA Studios" class="nav-logo-img"></a>
     <div class="nav-inner">
       <ul class="nav-center" id="nav-menu">
         <li><a href="/" data-page="home">Home</a></li>
@@ -54,7 +54,7 @@
             </a>
             <div class="dd-divider"></div>
             <a href="/contact/" style="padding:8px 14px">
-              <span class="dd-text"><span class="dd-title" style="color:var(--orange)">&rarr; Hire me</span><span class="dd-sub">Tell me about your project</span></span>
+              <span class="dd-text"><span class="dd-title" style="color:var(--orange)">&rarr; Get a free quote</span><span class="dd-sub">Tell us about your project</span></span>
             </a>
           </div>
         </li>
@@ -85,8 +85,8 @@
 
       <div class="footer-main">
         <div class="footer-brand-block">
-          <a href="/" class="footer-logo" aria-label="JC Aquino home"><span>JC Aquino</span></a>
-          <p>Creative and marketing partner for ecommerce brands, service businesses, and teams that need sharper design, practical systems, and measurable output.</p>
+          <a href="/" class="footer-logo" aria-label="JGA Studios home"><img src="/JGA_logo.svg" alt="JGA Studios" class="footer-logo-img"><span>JGA Studios</span></a>
+          <p>Creative and marketing digital studio for ecommerce brands, service businesses, and teams that need sharper design, practical systems, and measurable output.</p>
           <div class="footer-pills"><span>PH based</span><span>Global clients</span><span>Design + systems</span></div>
         </div>
 
@@ -100,8 +100,8 @@
           <a href="/services/brand-identity/">Brand identity</a>
         </nav>
 
-        <nav class="footer-column" aria-label="Footer profile links">
-          <h3>Profile</h3>
+        <nav class="footer-column" aria-label="Footer company links">
+          <h3>Studio</h3>
           <a href="/about/">About</a>
           <a href="/work/">Work</a>
           <a href="/process/">Process</a>
@@ -110,13 +110,13 @@
 
         <div class="footer-column footer-contact-block">
           <h3>Start here</h3>
-          <p>Have a campaign, funnel, app, or identity system to build? Send the details and I'll map the cleanest next step.</p>
-          <a href="/contact/" class="footer-contact-link">Hire me -&gt;</a>
+          <p>Have a campaign, funnel, app, or identity system to build? Send the details and we'll map the cleanest next step.</p>
+          <a href="/contact/" class="footer-contact-link">Get a quote -&gt;</a>
         </div>
       </div>
 
       <div class="footer-bottom">
-        <p>&copy; ${footerYear} JC Aquino. All rights reserved.</p>
+        <p>&copy; ${footerYear} JGA Studios. All rights reserved.</p>
         <div class="footer-bottom-links"><a href="/">Home</a><a href="/services/">Services</a><a href="/contact/">Contact</a></div>
       </div>
     </div>

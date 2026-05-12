@@ -23,7 +23,7 @@
   /* Nav */
   document.body.insertAdjacentHTML('afterbegin',`
   <nav id="site-nav">
-    <a href="/" class="nav-logo"><img src="/JGA_logo.svg" alt="JGA Studios" class="nav-logo-img"></a>
+    <a href="/" class="nav-logo">JC <span>Aquino</span></a>
     <div class="nav-inner">
       <ul class="nav-center" id="nav-menu">
         <li><a href="/" data-page="home">Home</a></li>
@@ -85,8 +85,8 @@
 
       <div class="footer-main">
         <div class="footer-brand-block">
-          <a href="/" class="footer-logo" aria-label="JGA Studios home"><img src="/JGA_logo.svg" alt="JGA Studios" class="footer-logo-img"><span>JGA Studios</span></a>
-          <p>Creative and marketing digital studio for ecommerce brands, service businesses, and teams that need sharper design, practical systems, and measurable output.</p>
+          <a href="/" class="footer-logo" aria-label="JC Aquino home"><span>JC Aquino</span></a>
+          <p>Creative and marketing partner for ecommerce brands, service businesses, and teams that need sharper design, practical systems, and measurable output.</p>
           <div class="footer-pills"><span>PH based</span><span>Global clients</span><span>Design + systems</span></div>
         </div>
 
@@ -116,7 +116,7 @@
       </div>
 
       <div class="footer-bottom">
-        <p>&copy; ${footerYear} JGA Studios. All rights reserved.</p>
+        <p>&copy; ${footerYear} JC Aquino. All rights reserved.</p>
         <div class="footer-bottom-links"><a href="/">Home</a><a href="/services/">Services</a><a href="/contact/">Contact</a></div>
       </div>
     </div>
